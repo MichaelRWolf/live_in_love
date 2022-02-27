@@ -27,4 +27,46 @@ It contains *italic* text, _underlined_ text, **bold** text, and plain
 text.
 
 
+** Lorem Ipsum
+
+NB: First paragraph is one long line.  Subswquent ones have been
+filled (i.e. newlines added for readability, but which should be
+rendered in markua 0.30 as spaces).
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis ornare neque eu ultricies. Mauris pellentesque varius molestie. Vivamus eget mi in purus tincidunt commodo sed quis ex. Suspendisse vitae cursus nulla, sit amet tempus augue. Fusce eu justo suscipit turpis tincidunt pharetra. Donec quis egestas nulla, id venenatis mauris. Integer accumsan rutrum dolor eu dapibus.
+
+Quisque mattis quam ut condimentum accumsan. Etiam aliquet iaculis
+tortor, eget semper dui bibendum volutpat. Phasellus pretium dui in
+tincidunt lacinia. Mauris pellentesque purus vel est consequat mollis
+et sit amet nisi. Pellentesque semper sollicitudin eros non
+dapibus. Mauris ornare iaculis leo vitae ornare. Quisque id erat quis
+libero ornare ultricies. 
+
+Maecenas accumsan, nibh in fermentum euismod, est enim elementum
+massa, ut tempus ex nisl vitae orci. Duis nec interdum
+ligula. Praesent quis ullamcorper neque. Nunc mi diam, eleifend eu
+pretium eget, euismod a lacus. Phasellus non porta tortor. Proin
+tempor ligula id libero ullamcorper, vel vehicula nisi
+condimentum. Etiam rutrum, eros sit amet pretium tincidunt, enim elit
+fringilla nisi, nec pretium lorem tortor eget orci. Vestibulum ut
+tempus purus, eu faucibus leo. 
+
+Ut vestibulum accumsan lacinia. Class aptent taciti sociosqu ad litora
+torquent per conubia nostra, per inceptos himenaeos. Cras laoreet
+dolor eu tincidunt scelerisque. Maecenas enim libero, ultrices vel
+erat et, suscipit lobortis massa. Vestibulum placerat enim eu odio
+consequat, in pellentesque lacus condimentum. Donec tristique, dui a
+iaculis cursus, felis justo mollis eros, quis suscipit felis ex vitae
+dui. Cras gravida ex eu magna gravida, sit amet imperdiet turpis
+mollis. Donec commodo diam non sem facilisis iaculis. Donec ut semper
+tortor. 
+
+Vestibulum vulputate, diam at dignissim aliquet, nibh nunc tempus
+lectus, in laoreet risus neque gravida ipsum. Nam at erat et libero
+mollis sagittis et quis ex. Ut vulputate tincidunt turpis. Ut in massa
+ante. Sed mattis, sapien id dapibus euismod, elit nibh rutrum dui,
+aliquam viverra lorem magna eget quam. Nulla consectetur quis purus
+quis elementum. Nam porttitor risus mi, ornare auctor nulla feugiat
+a. 
 

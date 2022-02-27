@@ -2,9 +2,9 @@
 
 Michael once heard this conversation between two authors.
 
-> Not-Yet-Author:  I have lots of ideas for a first book.  I just don't
-  know how to organize them.
+> **Not-Yet-Author**:  I have lots of ideas for a first book.  I just don't know how to organize them.
 
-> Author: They're called "chapters".
+> **Author**: They're called *chapters*.
 
 They are _both_ authors now.
+
