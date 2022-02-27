@@ -1,1 +1,30 @@
-# Chapter_In_Love.txt
+# ... In Love
+
+> The Road goes ever on and on
+> Down from the door where it began.
+> Now far ahead the Road has gone,
+> And I must follow, if I can,
+> Pursuing it with eager feet,
+> Until it joins some larger way
+> Where many paths and errands meet.
+> And whither then? I cannot say
+> The Road goes ever on and on
+> Down from the door where it began.
+> Now far ahead the Road has gone,
+> And I must follow, if I can,
+> Pursuing it with eager feet,
+> 
+> Until it joins some larger way
+> Where many paths and errands meet.
+> And whither then? I cannot say
+> 
+> -- J. R. R. Tolkein, "The Fellowship of the Ring"
+
+
+And the second chapter goes like this....
+
+It contains *italic* text, _underlined_ text, **bold** text, and plain
+text.
+
+
+
