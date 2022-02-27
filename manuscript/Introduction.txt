@@ -1,0 +1,14 @@
+# Introduction.txt
+
+## For The Readers
+Welcome to Wendy's labor of love.  Read this and the world will be a
+better place because you will be in a better place -- the place you
+choose to be.
+
+## For The Authors
+Some references:
+* [Leanpub](https://leanpub.com/live_in_love) 
+* [Leanpub overview](https://leanpub.com/live_in_love/overview) 
+ - https://leanpub.com/markua/read
+* [Confluence](https://wolfenterprises.atlassian.net/wiki/spaces/Projects/pages/2153480312/Book+Projects)
+* [github](https://github.com/MichaelRWolf/live_in_love)
