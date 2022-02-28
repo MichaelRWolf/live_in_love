@@ -7,8 +7,8 @@ choose to be.
 
 ## For The Authors
 Some references:
-* [Leanpub](https://leanpub.com/live_in_love) 
-* [Leanpub overview](https://leanpub.com/live_in_love/overview) 
+* [Leanpub](https://leanpub.com/living_in_love) 
+* [Leanpub overview](https://leanpub.com/living_in_love/overview) 
  - https://leanpub.com/markua/read
 * [Confluence](https://wolfenterprises.atlassian.net/wiki/spaces/Projects/pages/2153480312/Book+Projects)
-* [github](https://github.com/MichaelRWolf/live_in_love)
+* [github](https://github.com/MichaelRWolf/living_in_love)
