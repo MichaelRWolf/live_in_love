@@ -1,2 +1,2 @@
-# Liveing In Love
+# Living In Love
 Wendy's book
